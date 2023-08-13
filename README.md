@@ -6,9 +6,8 @@
 </p>
 
 <h2 align="center">WAFlash Player</h2>
-<p align="center">📌 How to use it on your website! • via html, css, js</p>
+<p align="center">📌 How to use it on your website! • via html, css, js <br><br> Play <a href="https://raw.githack.com/nate-games/waflash/main/code.html">Live</a> Plants vs. Zombies (Web Version) used for an example.</p>
 
-Live [WAFlash](https://raw.githack.com/nate-games/waflash/main/code.html), Plants vs. Zombies (Web Version) used for the example.
 ## Dependency
 HTML5 is required for this to work on your website
 ## What's this?
