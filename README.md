@@ -8,6 +8,7 @@
 <h2 align="center">WAFlash Player</h2>
 <p align="center">📌 How to use it on your website! • via html, css, js</p>
 
+Live [example](https://raw.githack.com/nate-games/waflash/main/code.html)
 ## Dependency
 HTML5 is required for this to work on your website
 ## What's this?
