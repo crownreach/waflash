@@ -27,7 +27,7 @@ Incase you don't know what WAFlash is, it's a WebAssembly AS2/AS3 Flash compatib
 <body>
     <script>
         var gameConfig = {
-            swfUrl: "https://cdn.jsdelivr.net/gh/nate-games/nate-games.github.io@main/0/g/pvz/game/pvz.swf"
+            swfUrl: "https://cdn.jsdelivr.net/gh/nate-games/nate-games.xyz@main/0/g/pvz/game/pvz.swf"
         }
     </script>
     <div id="waflashContainer">
