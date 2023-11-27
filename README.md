@@ -6,7 +6,7 @@
 </p>
 
 <h2 align="center">WAFlash Player</h2>
-<p align="center">📌 How to use it on your website! • via html, css, js <br><br> Play <a href="https://raw.githack.com/nate-games/waflash/main/code.html">Live</a> Plants vs. Zombies, used for this example.</p>
+<p align="center">📌 How to use it on your website! • via html, css, js <br><br> Play <a href="https://raw.githack.com/crownreach/waflash/main/code.html">Live</a> Plants vs. Zombies, used for this example.</p>
 
 ## Dependency
 HTML5 is required for this to work on your website
@@ -20,7 +20,7 @@ Incase you don't know what WAFlash is, it's a WebAssembly AS2/AS3 Flash compatib
 <html lang="en">
 
 <head>
-    <link href="https://cdn.jsdelivr.net/gh/nate-games/waflash@main/style.css"
+    <link href="https://cdn.jsdelivr.net/gh/crownreach/waflash@main/style.css"
         rel="stylesheet" type="text/css">
 </head>
 
@@ -33,7 +33,7 @@ Incase you don't know what WAFlash is, it's a WebAssembly AS2/AS3 Flash compatib
     <div id="waflashContainer">
         <canvas class="waflashCanvas" id="canvas" tabindex="1"></canvas>
         <div id="waflashStatus" style="display: none;">Playing...</div>
-<script src="https://cdn.jsdelivr.net/gh/nate-games/waflash@main/main.js"  rossorigin="anonymous" type="module"></script>
+<script src="https://cdn.jsdelivr.net/gh/crownreach/waflash@main/main.js"  rossorigin="anonymous" type="module"></script>
     </div>
 </body>
 
